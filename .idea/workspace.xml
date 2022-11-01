@@ -41,7 +41,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667331732864</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ejercicio Tema 8 Java - OpenBoot Camp &#10;Practicando encapsulamiento">
+      <created>1667332351664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667332351664</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ejercicio Tema 8 Java - OpenBoot Camp &#10;Practicando encapsulamiento">
+      <created>1667332478811</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667332478811</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -49,7 +63,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
