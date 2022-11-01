@@ -8,7 +8,6 @@ public class Main {
         p.setNombre("Pablo Aravena");
         p.setTelefono("+56912345678");
 
-
         System.out.println("La persona se llama: "+p.getNombre()+", tiene "+p.getEdad()+" años y su teléfono es: "+p.getTelefono());
     }
 }
